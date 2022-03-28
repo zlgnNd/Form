@@ -1,17 +1,18 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.container{
+.container {
     margin: 0 auto;
     padding: 15px;
 }
-.form_WayToGet{
-margin-bottom: 64px;
+
+.form_WayToGet {
+    margin-bottom: 64px;
 }
 
-.form__title1{
+.form__title1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 28px;
@@ -19,7 +20,7 @@ margin-bottom: 64px;
     margin-bottom: 32px;
 }
 
-.form_item{
+.form_item {
     box-sizing: content-box;
     height: 50px;
     border: 1px solid #BDBDBD;
@@ -31,28 +32,30 @@ margin-bottom: 64px;
     margin-bottom: 24px;
     padding-left: 24px;
 }
+
 .city,
-.delivery{
+.delivery {
     width: 520px;
 }
-.street{
+
+.street {
     width: 230px;
     margin-right: 16px;
 }
+
 .house,
 .flat,
-.index{
+.index {
     width: 106px;
     margin-right: 16px;
 }
-.comment{
+
+.comment {
     width: 692px;
 }
 
 /*------------Данные получателя-----------------------------*/
-
-
-.subtitle{
+.subtitle {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 12px;
@@ -63,29 +66,29 @@ margin-bottom: 64px;
 .surname,
 .name,
 .middlename,
-.tel{
+.tel {
     width: 196px;
 }
 
 .tel,
-.email{
+.email {
     margin-bottom: 8px;
 }
 
-.checkbox{
+.checkbox {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 16px;
     color: #424242;
 }
 
-.checkbox{
+.checkbox {
     margin-bottom: 69px;
 }
 
 /*----Способ оплаты-------------------------------------------*/
 
-.payment_variants{
+.payment_variants {
     font-weight: 400;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
